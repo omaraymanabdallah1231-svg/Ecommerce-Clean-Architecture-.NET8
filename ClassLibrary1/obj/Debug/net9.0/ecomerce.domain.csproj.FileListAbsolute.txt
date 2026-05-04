@@ -1,0 +1,14 @@
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\bin\Debug\net9.0\ecomerce.domain.deps.json
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\bin\Debug\net9.0\ecomerce.domain.runtimeconfig.json
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\bin\Debug\net9.0\ecomerce.domain.dll
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\bin\Debug\net9.0\ecomerce.domain.pdb
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\obj\Debug\net9.0\ecomerce.domain.csproj.AssemblyReference.cache
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\obj\Debug\net9.0\ecomerce.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\obj\Debug\net9.0\ecomerce.domain.AssemblyInfoInputs.cache
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\obj\Debug\net9.0\ecomerce.domain.AssemblyInfo.cs
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\obj\Debug\net9.0\ecomerce.domain.csproj.CoreCompileInputs.cache
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\obj\Debug\net9.0\ecomerce.domain.dll
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\obj\Debug\net9.0\refint\ecomerce.domain.dll
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\obj\Debug\net9.0\ecomerce.domain.pdb
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\obj\Debug\net9.0\ecomerce.domain.genruntimeconfig.cache
+C:\Users\viking\source\repos\service consumer\Ecommerce\ClassLibrary1\obj\Debug\net9.0\ref\ecomerce.domain.dll
