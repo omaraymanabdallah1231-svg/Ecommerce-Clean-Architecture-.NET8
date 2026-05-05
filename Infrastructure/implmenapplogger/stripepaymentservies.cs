@@ -25,6 +25,7 @@ namespace ecomerce.infrsutractor.implmenapplogger
                     {
                         Quantity=pQuantity!.Quantity,
 
+
                         PriceData=new SessionLineItemPriceDataOptions
                         {
                             Currency="usd",
