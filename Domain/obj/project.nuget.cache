@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cqIANWmA5P8=",
+  "dgSpecHash": "LC8/0j5+07g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\ClassLibrary1\\ecomerce.domain.csproj",
+  "projectFilePath": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\Domain\\ecomerce.domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\viking\\.nuget\\packages\\automapper\\16.1.1\\automapper.16.1.1.nupkg.sha512",
     "C:\\Users\\viking\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

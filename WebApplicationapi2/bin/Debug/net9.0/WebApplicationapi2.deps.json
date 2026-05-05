@@ -1366,37 +1366,6 @@
         }
       },
       "System.Threading.Tasks.Extensions/4.5.4": {},
-      "ecomerce.domain/1.0.0": {
-        "dependencies": {
-          "AutoMapper": "16.1.1",
-          "EntityFrameworkCore.Exceptions.SqlServer": "8.1.3",
-          "FluentValidation": "12.1.1",
-          "FluentValidation.DependencyInjectionExtensions": "12.1.1",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.14",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.14",
-          "Microsoft.AspNetCore.Identity.UI": "9.0.14",
-          "Microsoft.EntityFrameworkCore": "9.0.14",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.14",
-          "Microsoft.Extensions.DependencyInjection": "9.0.14",
-          "Serilog": "4.3.2-dev-02419",
-          "Serilog.AspNetCore": "9.0.0",
-          "Serilog.Sinks.Console": "6.1.1",
-          "Serilog.Sinks.File": "8.0.0-nblumhardt-02322",
-          "Stripe.net": "46.2.2",
-          "Swashbuckle.AspNetCore": "9.0.6",
-          "Swashbuckle.AspNetCore.Swagger": "9.0.6",
-          "Swashbuckle.AspNetCore.SwaggerGen": "9.0.6",
-          "Swashbuckle.AspNetCore.SwaggerUI": "9.0.6",
-          "System.IdentityModel.Tokens.Jwt": "8.17.0",
-          "System.Linq": "4.3.0"
-        },
-        "runtime": {
-          "ecomerce.domain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "ecomerce.infrsutractor/1.0.0": {
         "dependencies": {
           "AutoMapper": "16.1.1",
@@ -1430,33 +1399,9 @@
           }
         }
       },
-      "ecommerce.application/1.0.0": {
-        "dependencies": {
-          "AutoMapper": "16.1.1",
-          "EntityFrameworkCore.Exceptions.SqlServer": "8.1.3",
-          "FluentValidation": "12.1.1",
-          "FluentValidation.DependencyInjectionExtensions": "12.1.1",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.14",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.14",
-          "Microsoft.AspNetCore.Identity.UI": "9.0.14",
-          "Microsoft.EntityFrameworkCore": "9.0.14",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.14",
-          "Microsoft.Extensions.DependencyInjection": "9.0.14",
-          "Serilog": "4.3.2-dev-02419",
-          "Serilog.AspNetCore": "9.0.0",
-          "Serilog.Sinks.Console": "6.1.1",
-          "Serilog.Sinks.File": "8.0.0-nblumhardt-02322",
-          "Stripe.net": "46.2.2",
-          "Swashbuckle.AspNetCore": "9.0.6",
-          "Swashbuckle.AspNetCore.Swagger": "9.0.6",
-          "Swashbuckle.AspNetCore.SwaggerGen": "9.0.6",
-          "Swashbuckle.AspNetCore.SwaggerUI": "9.0.6",
-          "System.IdentityModel.Tokens.Jwt": "8.17.0",
-          "System.Linq": "4.3.0",
-          "ecomerce.domain": "1.0.0"
-        },
+      "ecomerce.domain.Reference/1.0.0.0": {
         "runtime": {
-          "ecommerce.application.dll": {
+          "ecomerce.domain.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -2296,18 +2241,13 @@
       "path": "system.threading.tasks.extensions/4.5.4",
       "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
     },
-    "ecomerce.domain/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "ecomerce.infrsutractor/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "ecommerce.application/1.0.0": {
-      "type": "project",
+    "ecomerce.domain.Reference/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

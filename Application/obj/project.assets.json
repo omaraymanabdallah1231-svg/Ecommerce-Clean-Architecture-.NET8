@@ -7027,11 +7027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\ClassLibrary2\\ecommerce.application.csproj",
+      "projectUniqueName": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\Application\\ecommerce.application.csproj",
       "projectName": "ecommerce.application",
-      "projectPath": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\ClassLibrary2\\ecommerce.application.csproj",
+      "projectPath": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\Application\\ecommerce.application.csproj",
       "packagesPath": "C:\\Users\\viking\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\ClassLibrary2\\obj\\",
+      "outputPath": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7053,6 +7053,9 @@
           "projectReferences": {
             "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\ClassLibrary1\\ecomerce.domain.csproj": {
               "projectPath": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\ClassLibrary1\\ecomerce.domain.csproj"
+            },
+            "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\Domain\\ecomerce.domain.csproj": {
+              "projectPath": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\Domain\\ecomerce.domain.csproj"
             }
           }
         }

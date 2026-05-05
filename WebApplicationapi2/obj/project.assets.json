@@ -7063,8 +7063,8 @@
     },
     "ecomerce.infrsutractor/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary3/ecomerce.infrsutractor.csproj",
-      "msbuildProject": "../ClassLibrary3/ecomerce.infrsutractor.csproj"
+      "path": "../Infrastructure/ecomerce.infrsutractor.csproj",
+      "msbuildProject": "../Infrastructure/ecomerce.infrsutractor.csproj"
     },
     "ecommerce.application/1.0.0": {
       "type": "project",
@@ -7112,11 +7112,17 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\Application\\ecommerce.application.csproj": {
+              "projectPath": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\Application\\ecommerce.application.csproj"
+            },
             "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\ClassLibrary2\\ecommerce.application.csproj": {
               "projectPath": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\ClassLibrary2\\ecommerce.application.csproj"
             },
             "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\ClassLibrary3\\ecomerce.infrsutractor.csproj": {
               "projectPath": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\ClassLibrary3\\ecomerce.infrsutractor.csproj"
+            },
+            "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\Infrastructure\\ecomerce.infrsutractor.csproj": {
+              "projectPath": "C:\\Users\\viking\\source\\repos\\service consumer\\Ecommerce\\Infrastructure\\ecomerce.infrsutractor.csproj"
             }
           }
         }

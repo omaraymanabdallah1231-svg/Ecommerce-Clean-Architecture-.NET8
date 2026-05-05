@@ -16,8 +16,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Application\ecommerce.application.csproj" />
     <ProjectReference Include="..\ClassLibrary2\ecommerce.application.csproj" />
     <ProjectReference Include="..\ClassLibrary3\ecomerce.infrsutractor.csproj" />
+    <ProjectReference Include="..\Infrastructure\ecomerce.infrsutractor.csproj" />
   </ItemGroup>
 
 </Project>

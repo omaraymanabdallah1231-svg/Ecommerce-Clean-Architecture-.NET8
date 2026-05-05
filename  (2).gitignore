@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+ClassLibrary2/
+ClassLibrary3/
+.idea/
+*.user
+*.suo
+*.log
+publish/
